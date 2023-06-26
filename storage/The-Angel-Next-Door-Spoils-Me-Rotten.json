@@ -1,0 +1,47 @@
+{
+  "alternative":"Otonari no Tenshi-sama ni Itsu no Ma ni ka Dame Ningen ni Sareteita Ken",
+  "type":"Light Novel",
+  "status":"Ongoing",
+  "translation":"Yen Press",
+  "author":"Saekisan",
+  "artist":"Hanekoto",
+  "synopsis":"After a long period of unrequited love, Mahiru and Amane finally begin dating, and the inexperienced pair stumbles through their new relationship while steadily growing closer. When they openly show their love at school, everyone is shocked. However, that isn’t the only change—Amane slowly becomes more confident and easier to approach. Watching him, Mahiru can’t help feeling slightly uneasy...but it’s the start of summer vacation, and unforgettable memories await!",
+  "genres":[
+    {
+      "name":"Comedy"
+    },
+    {
+      "name":"Romance"
+    },
+    {
+      "name":"Slice of Life"
+    }
+  ],
+  "volumes": [
+    {
+      "volume_number":"Volume 1",
+      "link":"https://drive.google.com/file/d/12uqOsqKCDhfUxrnhA3fEQtiUzolpMhn1/view?usp=drivesdk",
+      "type":"Free"
+    },
+    {
+      "volume_number":"Volume 2",
+      "link":"https://drive.google.com/file/d/12vDVRZIDl5p1J4Je3zI9k_8Feco071CX/view?usp=drivesdk",
+      "type":"Free"
+    },
+    {
+      "volume_number":"Volume 3",
+      "link":"https://drive.google.com/file/d/12uqOsqKCDhfUxrnhA3fEQtiUzolpMhn1/view?usp=drivesdk",
+      "type":"Free"
+    },
+    {
+      "volume_number":"Volume 4",
+      "link":"https://drive.google.com/file/d/12uqOsqKCDhfUxrnhA3fEQtiUzolpMhn1/view?usp=drivesdk",
+      "type":"Free"
+    },
+    {
+      "volume_number":"Volume 5",
+      "link":"https://drive.google.com/file/d/12uqOsqKCDhfUxrnhA3fEQtiUzolpMhn1/view?usp=drivesdk",
+      "type":"Pro"
+    }
+  ]
+}
