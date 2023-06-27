@@ -1,0 +1,53 @@
+{
+  "alternative": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+  "type": "Light Novel",
+  "status": "Ongoing",
+  "translation": "Seven Seas\nRoyalMTL",
+  "author": "Kinugasa Shougo",
+  "artist": "Tomose Shunsaku",
+  "synopsis": "As Ayanokouji and his classmates begin their second year at the Advanced Nurturing High School, they’re greeted by a fresh gauntlet of exams and a fresh batch of rather unique first-year students. They’ll have to get to know each other quickly, because the first special exam pairs the first-years with the second-years on a written test—with only the second-years facing expulsion if their team performs poorly! Worse yet? It seems one of the new first-years is also from the White Room. Can Ayanokouji avoid expulsion while sussing out the identity of this hidden foe?\n\nNote:- Even though Volume 0 is the prequel of this series, it is advised to read till Year 2 Volume 8 beforehand to avoid getting spoiled (which is precisely the reason why it was released after Y2 V8).",
+  "genres":[
+   {
+      "name":"Comedy"
+    },
+    {
+      "name":"Romance"
+    },
+    {
+      "name":"Slice of Life"
+    }
+  ],
+  "volumes": [
+    {
+      "volume_number":"Volume 1",
+      "epub":"Unknown",
+      "pdf":"Unknown",
+      "type":"Free"
+    },{
+      "volume_number":"Volume 2",
+      "epub":"Unknown",
+      "pdf":"Unknown",
+      "type":"Free"
+    },{
+      "volume_number":"Volume 3",
+      "epub":"Unknown",
+      "pdf":"Unknown",
+      "type":"Free"
+    },{
+      "volume_number":"Volume 4",
+      "epub":"Unknown",
+      "pdf":"Unknown",
+      "type":"Free"
+    },{
+      "volume_number":"Volume 5",
+      "epub":"Unknown",
+      "pdf":"Unknown",
+      "type":"Free"
+    },{
+      "volume_number":"Volume 6",
+      "epub":"Unknown",
+      "pdf":"Unknown",
+      "type":"Free"
+    }
+  ]
+}
