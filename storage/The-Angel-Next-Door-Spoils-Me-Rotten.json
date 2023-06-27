@@ -32,19 +32,49 @@
     },
     {
       "volume_number":"Volume 3",
-      "epub":"https://drive.google.com/file/d/12uqOsqKCDhfUxrnhA3fEQtiUzolpMhn1/view?usp=drivesdk",
+      "epub":"https://drive.google.com/file/d/12hMaZ_0OCEWzyuon74A2nko3WBtl513d/view?usp=drivesdk",
       "pdf":"",
       "type":"Free"
     },
     {
       "volume_number":"Volume 4",
-      "epub":"https://drive.google.com/file/d/12uqOsqKCDhfUxrnhA3fEQtiUzolpMhn1/view?usp=drivesdk",
+      "epub":"https://drive.google.com/file/d/12ggoBAZ6gtBZlYmrgY8rfPLoThJOkQxC/view?usp=drivesdk",
       "pdf":"",
       "type":"Free"
     },
     {
       "volume_number":"Volume 5",
-      "epub":"https://drive.google.com/file/d/12uqOsqKCDhfUxrnhA3fEQtiUzolpMhn1/view?usp=drivesdk",
+      "epub":"https://drive.google.com/file/d/12bgxUDMJ3ECKMEk-cBMcAXYmT9wtoncd/view?usp=drivesdk",
+      "pdf":"",
+      "type":"Pro"
+    },
+    {
+      "volume_number":"Volume 5.5",
+      "epub":"https://drive.google.com/file/d/1im1ls_G3FLfZuWi2-M7tlflkhvib99sl/view?usp=drivesdk",
+      "pdf":"",
+      "type":"Pro"
+    },
+    {
+      "volume_number":"Volume 5.5 Special Booklet",
+      "epub":"https://drive.google.com/file/d/1qHV1IqE20e7ZMqDp_SVaMgrpcAnZSQ8A/view?usp=drivesdk",
+      "pdf":"",
+      "type":"Pro"
+    },
+    {
+      "volume_number":"Volume 6",
+      "epub":"https://drive.google.com/file/d/1qKT6LG7gbYl4OX6fVHM4e4_PhHwVowJL/view?usp=drivesdk",
+      "pdf":"",
+      "type":"Pro"
+    },
+    {
+      "volume_number":"Volume 7",
+      "epub":"https://drive.google.com/file/d/1qPh5Lt3aq3IV3DSFc8fVtV5ErTNHARyF/view?usp=drivesdk",
+      "pdf":"",
+      "type":"Pro"
+    },
+    {
+      "volume_number":"Volume 8",
+      "epub":"https://drive.google.com/file/d/1qRCc2NNn8dZblAwzJDv5KyG9t6XGmFbv/view?usp=drivesdk",
       "pdf":"",
       "type":"Pro"
     }
