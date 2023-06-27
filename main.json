@@ -1,5 +1,13 @@
 [
 	{
+    	"title": "A Late-Start Tamer's Laid-Back Life",
+    	"cover": "https://cdn.kobo.com/book-images/e5a4823f-0860-4162-b0c7-9348c7a8999e/1200/1200/False/a-late-start-tamer-s-laid-back-life-volume-6.jpg",
+    	"link": "a-late-start-tamer-s-laid-back-life.json",
+   	 "new_post": "New",
+   	 "tl_type": "Official",
+   	 "source": "J-Novel Club"
+     },
+	{
     "title": "86 - EIGHTY SIX",
     "cover": "https://static.wikia.nocookie.net/86-eighty-six/images/a/af/Light_Novel_Volume_11_Cover.jpg/revision/latest/scale-to-width/720?cb=20220209161407",
     "link": "86-eighty-six.json",
@@ -21,7 +29,7 @@
     "link": "classroom-of-the-elite-year-2.json",
     "new_post": "New",
     "tl_type": "Official",
-    "source": "seven Seas"
+    "source": "Seven Seas"
   },
 	{
     "title": "Classroom Of The Elite",
@@ -37,7 +45,7 @@
     "link": "The-Angel-Next-Door-Spoils-Me-Rotten.json",
     "new_post": "New",
     "tl_type": "Official",
-    "source": "YenPress"
+    "source": "Yen Press"
   },
   {
     "title": "Alya Sometimes Hide Her Feelings in Russian",
@@ -45,6 +53,6 @@
     "link": "alya-sometimes-hide-her-feelings-in-russian.json",
     "new_post": "New",
     "tl_type": "Official",
-    "source": "YenPress"
+    "source": "Yen Press"
   }
 ]
