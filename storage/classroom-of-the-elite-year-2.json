@@ -26,63 +26,63 @@
   "volumes": [
     {
       "volume_number":"Volume 1",
-      "epub":"https://drive.google.com/file/d/1M05pjOVbsWxzha1g_LONw5eE7LOyOfdJ/view?usp=drive_link",
-      "pdf":"https://drive.google.com/file/d/1M6wIfdWU0_Tkd6Aul34yYMYF0gP9MjUx/view?usp=drive_link",
+      "epub":"https://drive.google.com/file/d/1M05pjOVbsWxzha1g_LONw5eE7LOyOfdJ/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/1M6wIfdWU0_Tkd6Aul34yYMYF0gP9MjUx/view?usp=drivesdk",
       "type":"Free"
     },{
       "volume_number":"Volume 2",
-      "epub":"https://drive.google.com/file/d/1LqgrAxl0_duM8l2Q390IozleHz4pVILk/view?usp=drive_link",
-      "pdf":"https://drive.google.com/file/d/1M9yIMy1xF_sSXBy1Iigi9CYt7keDkNhq/view?usp=drive_link",
+      "epub":"https://drive.google.com/file/d/1LqgrAxl0_duM8l2Q390IozleHz4pVILk/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/1M9yIMy1xF_sSXBy1Iigi9CYt7keDkNhq/view?usp=drivesdk",
       "type":"Free"
     },{
       "volume_number":"Volume 3",
-      "epub":"https://drive.google.com/file/d/1Lqrd_-63-2l01tnv5Ue_0di5KL6vM07B/view?usp=drive_link",
-      "pdf":"https://drive.google.com/file/d/1MCgGvyul5UTwKSFnoHAVUo7a_U-nqUEb/view?usp=drive_link",
+      "epub":"https://drive.google.com/file/d/1Lqrd_-63-2l01tnv5Ue_0di5KL6vM07B/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/1MCgGvyul5UTwKSFnoHAVUo7a_U-nqUEb/view?usp=drivesdk",
       "type":"Free"
     },{
       "volume_number":"Volume 4",
-      "epub":"https://drive.google.com/file/d/1LuITs5_mejBsylCNJEPvkN0EUNB25I1y/view?usp=drive_link",
-      "pdf":"https://drive.google.com/file/d/1MG-SMv0ndCuIdgcphePgimU-Qna942V3/view?usp=drive_link",
+      "epub":"https://drive.google.com/file/d/1LuITs5_mejBsylCNJEPvkN0EUNB25I1y/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/1MG-SMv0ndCuIdgcphePgimU-Qna942V3/view?usp=drivesdk",
       "type":"Free"
     },{
       "volume_number":"Volume 4.5",
-      "epub":"https://drive.google.com/file/d/1LvFb5MpAqeczkxwFMxS2n0HXIqGuqI0N/view?usp=drive_link",
-      "pdf":"https://drive.google.com/file/d/1MLAfs4imJGAOjvHxAlDQqI4ZamgLfQRU/view?usp=drive_link",
+      "epub":"https://drive.google.com/file/d/1LvFb5MpAqeczkxwFMxS2n0HXIqGuqI0N/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/1MLAfs4imJGAOjvHxAlDQqI4ZamgLfQRU/view?usp=drivesdk",
       "type":"Free"
     },{
       "volume_number":"Volume 5",
-      "epub":"https://drive.google.com/file/d/1UKq21HRDWN_HE8f76e-HXPuaYSz44i9x/view?usp=drive_link",
-      "pdf":"https://drive.google.com/file/d/14UIi1ZW9aEozSs7nCb3CivQi8mdz2g-9/view?usp=drive_link",
+      "epub":"https://drive.google.com/file/d/1UKq21HRDWN_HE8f76e-HXPuaYSz44i9x/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/14UIi1ZW9aEozSs7nCb3CivQi8mdz2g-9/view?usp=drivesdk",
       "type":"Pro"
     },{
       "volume_number":"Volume 6",
-      "epub":"https://drive.google.com/file/d/1Ew_Sff987DwEPuVXGYnUkj2t8Ze1g_Ws/view?usp=drive_link",
-      "pdf":"https://drive.google.com/file/d/1JIXSLPS3xsO22ihFrDFyTeFdSbKJr-NP/view?usp=drive_link",
+      "epub":"https://drive.google.com/file/d/1Ew_Sff987DwEPuVXGYnUkj2t8Ze1g_Ws/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/1JIXSLPS3xsO22ihFrDFyTeFdSbKJr-NP/view?usp=drivesdk",
       "type":"Pro"
     },{
       "volume_number":"Volume 7",
-      "epub":"https://drive.google.com/file/d/1MjIwpW-YE6lecP_xc0RYbpKxbQDKsPp2/view?usp=drive_link",
-      "pdf":"https://drive.google.com/file/d/1NRrSsCk-6T3cXZEKeYBIuEz-VKK8dsIx/view?usp=drive_link",
+      "epub":"https://drive.google.com/file/d/1MjIwpW-YE6lecP_xc0RYbpKxbQDKsPp2/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/1NRrSsCk-6T3cXZEKeYBIuEz-VKK8dsIx/view?usp=drivesdk",
       "type":"Free"
     },{
       "volume_number":"Volume 8",
-      "epub":"https://drive.google.com/file/d/1N1euYslRNY5u2s8vv7OA0lpmTx4AYqYG/view?usp=drive_link",
-      "pdf":"https://drive.google.com/file/d/1NVg1a_oWVVFVl1C8dYdRvUYtYnsVBbkK/view?usp=drive_link",
+      "epub":"https://drive.google.com/file/d/1N1euYslRNY5u2s8vv7OA0lpmTx4AYqYG/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/1NVg1a_oWVVFVl1C8dYdRvUYtYnsVBbkK/view?usp=drivesdk",
       "type":"Free"
     },{
       "volume_number":"Volume 0",
-      "epub":"https://drive.google.com/file/d/1MbrCy4oif_8aWKvvYJsOvsLKBNDXvIHY/view?usp=drive_link",
-      "pdf":"https://drive.google.com/file/d/1NP7xQUbq8pJmVgUWQjrm_p8K0X7fHbPH/view?usp=drive_link",
+      "epub":"https://drive.google.com/file/d/1MbrCy4oif_8aWKvvYJsOvsLKBNDXvIHY/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/1NP7xQUbq8pJmVgUWQjrm_p8K0X7fHbPH/view?usp=drivesdk",
       "type":"Free"
     },{
       "volume_number":"Volume 9",
-      "epub":"https://drive.google.com/file/d/1N7ryq9Bqbq67I2Uk3oPOkWIkgpUgL4ma/view?usp=drive_link",
-      "pdf":"https://drive.google.com/file/d/1Npfkp2VFqF6CN2F-EUAjXY0o31gvvan1/view?usp=drive_link",
+      "epub":"https://drive.google.com/file/d/1N7ryq9Bqbq67I2Uk3oPOkWIkgpUgL4ma/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/1Npfkp2VFqF6CN2F-EUAjXY0o31gvvan1/view?usp=drivesdk",
       "type":"Free"
     },{
       "volume_number":"Volume 9.5",
-      "epub":"https://drive.google.com/file/d/170CUhIcTTQXAU2fJ99tv6VwNbe6Z1sFq/view?usp=drive_link",
-      "pdf":"https://drive.google.com/file/d/1KQLd431T17WHTWBGIoX8RbYPmgIO72dR/view?usp=drive_link",
+      "epub":"https://drive.google.com/file/d/170CUhIcTTQXAU2fJ99tv6VwNbe6Z1sFq/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/1KQLd431T17WHTWBGIoX8RbYPmgIO72dR/view?usp=drivesdk",
       "type":"Free"
     }
   ]
