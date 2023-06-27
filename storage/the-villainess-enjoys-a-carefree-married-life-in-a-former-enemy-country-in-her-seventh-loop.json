@@ -26,18 +26,18 @@
   "volumes": [
     {
       "volume_number":"Volume 1",
-      "epub":"https://drive.google.com/file/d/15-_TCWTBePR5aqqKU1PzFY9IHLNfTRqA/view?usp=drive_link",
-      "pdf":"https://drive.google.com/file/d/15UhdybegQOQQHvbSjpAFmOas_leABD8_/view?usp=drive_link",
+      "epub":"https://drive.google.com/file/d/15-_TCWTBePR5aqqKU1PzFY9IHLNfTRqA/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/15UhdybegQOQQHvbSjpAFmOas_leABD8_/view?usp=drivesdk",
       "type":"Free"
     },{
       "volume_number":"Volume 2",
-      "epub":"https://drive.google.com/file/d/159GIxcL6buu1L0u2jC3PXBtKcBC4P7LI/view?usp=drive_link",
-      "pdf":"https://drive.google.com/file/d/15d5JDjGhaNucataeDa4wsY8Qjce3wVr5/view?usp=drive_link",
+      "epub":"https://drive.google.com/file/d/159GIxcL6buu1L0u2jC3PXBtKcBC4P7LI/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/15d5JDjGhaNucataeDa4wsY8Qjce3wVr5/view?usp=drivesdk",
       "type":"Free"
     },{
       "volume_number":"Volume 3",
-      "epub":"https://drive.google.com/file/d/15Hv1HoRxNbXWnEIhUnJ-icEIWeG3Lb1A/view?usp=drive_link",
-      "pdf":"https://drive.google.com/file/d/15dhhY1KVvys3Z4F41Zb_Ryn1uc51b_Va/view?usp=drive_link",
+      "epub":"https://drive.google.com/file/d/15Hv1HoRxNbXWnEIhUnJ-icEIWeG3Lb1A/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/15dhhY1KVvys3Z4F41Zb_Ryn1uc51b_Va/view?usp=drivesdk",
       "type":"Free"
     }
   ]
