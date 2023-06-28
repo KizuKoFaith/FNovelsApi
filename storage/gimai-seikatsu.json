@@ -1,0 +1,66 @@
+{
+  "alternative": "Gimai Seikatsu",
+  "type": "Light Novel",
+  "status": "Ongoing",
+  "translation": "CClaw Translations\nFungus Fan Translations",
+  "author": "Mikawa Ghost",
+  "artist": "Hiten",
+  "synopsis": "From classmates to brother and sister, living under the same roof.\n\nAfter his father’s remarriage, Asamura Yuuta ends up getting a new stepsister, coincidentally the number one beauty of the school year, Ayase Saki. Having learned important values when it comes to man-woman relationships through the previous ones of their parents, they promise each other not to be too close, not to be too opposing, and to merely keep a vague and comfortable distance.\n\nOn one hand, Saki, who has worked in solitude for the sake of her family, doesn’t know how to properly rely on others, whereas Yuta is unsure of how to really treat her. Standing on fairly equal ground, these two slowly learn the comfortable sensation of living together.\n\nTheir relationship slowly evolves from being strangers the more the days pass. Eventually, this could end up in a story about love for all we know.",
+  "genres":[
+   {
+      "name":"Comedy"
+    },
+    {
+      "name":"Psychological"
+    },
+    {
+      "name":"Drama"
+    },
+    {
+      "name":"Romance"
+    },
+    {
+      "name":"Slice of Life"
+    },{
+      "name":"School Life"
+    }
+  ],
+  "volumes": [
+    {
+      "volume_number":"Volume 1",
+      "epub":"https://drive.google.com/file/d/1IhXrSGBiEfgoiB3zzTaqZ3tZayK4PoNH/view?usp=drive_link",
+      "pdf":"https://drive.google.com/file/d/1twiY9m5tjiFdq_G92XwGuO9ClGsECjVw/view?usp=drive_link",
+      "type":"Free"
+    },{
+      "volume_number":"Volume 2",
+      "epub":"https://drive.google.com/file/d/18NqkYrqtbrBDbY15zmOVsaYa8JwQG9t7/view?usp=drive_link",
+      "pdf":"https://drive.google.com/file/d/1K78l5AtxErs0kWI17bZYhNV-MUhRpoph/view?usp=drive_link",
+      "type":"Free"
+    },{
+      "volume_number":"Volume 3",
+      "epub":"https://drive.google.com/file/d/1XbG0PVYBd448-U9x66_6W0egXeJkjdGi/view?usp=drive_link",
+      "pdf":"https://drive.google.com/file/d/1-f8PmHu-fY7PpT_545WJaj292VmY5ypK/view?usp=drive_link",
+      "type":"Free"
+    },{
+      "volume_number":"Volume 4",
+      "epub":"https://drive.google.com/file/d/12FdNtiyooEreK8JgRjxWoQvq6C8PpZaz/view?usp=drive_link",
+      "pdf":"https://drive.google.com/file/d/1GG4FsJLDHbqk9dUDcbLcGdDFszoXEVaD/view?usp=drive_link",
+      "type":"Free"
+    },{
+      "volume_number":"Volume 5",
+      "epub":"https://drive.google.com/file/d/1-fR7XtDqYuBEquHS09o8n-QH2eYBIoxx/view?usp=drive_link",
+      "pdf":"https://drive.google.com/file/d/1A49XuERZPjHOBbSF1QIO-p2djYkehZeu/view?usp=drive_link",
+      "type":"Free"
+    },{
+      "volume_number":"Volume 6",
+      "epub":"https://drive.google.com/file/d/1cRnVGq5Ril9mNSgg8UittVQcP4btjNRa/view?usp=drive_link",
+      "pdf":"https://drive.google.com/file/d/1cCeJ3KmKnTZlcjpnT5iVsbbmRzROmWCh/view?usp=drive_link",
+      "type":"Free"
+    },{
+      "volume_number":"Volume 7",
+      "epub":"https://drive.google.com/file/d/1Voec5mx5T4SGkeqnKb7TVTWkFtNCJ6dx/view?usp=drive_link",
+      "pdf":"https://drive.google.com/file/d/1Ts_xNbOwrp2UlitgHxur5FTF5Gv87doP/view?usp=drive_link",
+      "type":"Free"
+    }
+  ]
+}
