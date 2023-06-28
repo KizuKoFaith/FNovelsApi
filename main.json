@@ -1,5 +1,20 @@
 [
 	{
+		"title": "Ao no Orchestra",
+		"cover": "https://m.media-amazon.com/images/M/MV5BY2Q3M2U2YTQtNGExZC00NmIxLWIwOTMtYzliYTk2YTlkNWE2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
+		"current_ep": "Ep 12",
+		"new_post": "New",
+		"mal_id": 51614,
+		"file_id": 6002,
+		"year": 2023,
+		"season":"Spring",
+		"genre": "Drama, Music, School Life",
+		"status": "Ongoing",
+		"studio": "Nippon Animation",
+		"episodes": "24",
+		"synopsis": "Hajime Aono was a prodigy violinist until he grew jaded with playing the violin due to personal reasons. Now in his third year of middle school, he struggles to decide his academic path. One day in school, he meets Ritsuko Akine, a hotheaded novice violinist who wants to enroll in a high school with a distinguished orchestra club. When he finds himself getting closer to Ritsuko and being brought back to the world of violinists, time starts moving again for him.\n\nThis is the beginning of a youthful drama where sounds and hearts alike resound in harmony."
+	},
+	{
     	"title": "Death's Daughter and the Ebony Blade",
     	"cover": "https://1.bp.blogspot.com/-oF1kidekJ2I/X3iFgSCy6pI/AAAAAAAAPXM/dr3WZojxikQnLjWfrIr6c1KuZcgpdpFHQCNcBGAsYHQ/s1920/HDimage00030.jpeg",
     	"link": "deaths-daughter-and-the-ebony-blade.json",
