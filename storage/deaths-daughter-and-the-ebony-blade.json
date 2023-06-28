@@ -1,0 +1,52 @@
+{
+  "alternative": "Shinigami ni Sodaterareta Shoujo wa Shikkoku no Ken wo Mune ni Idaku",
+  "type": "Light Novel",
+  "status": "Ongoing",
+  "translation": "J-Novel Club",
+  "author": "Maito Saimine",
+  "artist": "Cierra",
+  "synopsis": "Olivia is just a baby when the mysterious Z finds her at a temple in the depths of the Forest of No Return. From that day on, the temple becomes her home and Z her family. Z, a god of death, educates her in the ways of the world, in combat, and in the long-forgotten arts of magic—right up until the day Z disappears. Olivia leaves the forest for the first time in search of Z with its ebony blade in hand. Out in the wider world, all is not well. A bitter war rages between the Asvelt Empire and the Kingdom of Fernest, and Fernest is losing badly. When Olivia shows up on Fernest’s doorstep with a sack of imperial heads looking to volunteer, the royal army happily welcomes her into its ranks. Thanks to Z’s training, she quickly proves herself as a ferocious warrior. In fact, she might be just what Fernest needs to turn the tide of the war…but will they accept her lack of people skills and disregard for discipline? And will she ever see Z again?",
+  "genres":[
+   {
+      "name":"Action"
+    },
+    {
+      "name":"Fantasy"
+    },
+    {
+      "name":"Comedy"
+    },
+    {
+      "name":"Romance"
+    },
+    {
+      "name":"Martial Arts"
+    },
+    {
+      "name":"Shounen"
+    }
+  ],
+  "volumes": [
+    {
+      "volume_number":"Volume 1",
+      "epub":"https://drive.google.com/file/d/12iZ1s8hY5L5Xaf7GiUHOv6BXtpnAGtmB/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/1Kb1Z0C2jpA-Nvp6viPV94zMAH7biWiiV/view?usp=drivesdk",
+      "type":"Free"
+    },{
+      "volume_number":"Volume 2",
+      "epub":"https://drive.google.com/file/d/1YasfC5ESpNzWSuHByZeqmbIUPRv-zJoG/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/1oX5OWxZ1rLKqm7Ke-5qA9xinlJB6AvNc/view?usp=drivesdk",
+      "type":"Free"
+    },{
+      "volume_number":"Volume 3",
+      "epub":"https://drive.google.com/file/d/1JyiHh-Nq-Bn87XOO3FqVbZPw-v9VYX8D/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/1Gzz0hWJIf3JvaeQhCHgNrtu8oFRZWHfa/view?usp=drivesdk",
+      "type":"Free"
+    },{
+      "volume_number":"Volume 4",
+      "epub":"https://drive.google.com/file/d/11HM_0U71hMHuI9pGN4ZH3uk9Z74y-Xx7/view?usp=drivesdk",
+      "pdf":"https://drive.google.com/file/d/1fXs_DLDiBReqC1sQJ6UuFzgbXnUVoh1e/view?usp=drivesdk",
+      "type":"Free"
+    }
+  ]
+}
