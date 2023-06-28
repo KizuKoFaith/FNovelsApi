@@ -1,5 +1,13 @@
 [
 	{
+    	"title": "Ascendance of a Bookworm",
+    	"cover": "https://static.wikia.nocookie.net/ascendance-of-a-bookworm/images/0/0c/LN_P5V4-CoverEN.jpg/revision/latest?cb=20230313210513",
+    	"link": "ascendance-of-a-bookworm.json",
+   	 "new_post": "New",
+   	 "tl_type": "Official",
+   	 "source": "J-Novel Club"
+     },
+	{
     	"title": "An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!",
     	"cover": "https://i.ibb.co/cTFsFTY/cover.jpg",
     	"link": "an-introverts-hookup.json",
