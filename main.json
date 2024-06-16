@@ -1,98 +1,32 @@
-[	
-	{
-    	"title": "Haibara's Teenage New Game+",
-    	"cover": "https://preview.redd.it/tte2zlp5nzt91.jpg?auto=webp&v=enabled&s=9d812eeca407c84e69df9f931dbc6a86bc4b3e25",
-    	"link": "haibaras-teenage-new-game-plus.json",
-   	 "new_post": "New",
-   	 "tl_type": "Official",
-   	 "source": "J-Novel Club"
-     },
-	{
-    	"title": "Days With My Stepsister",
-    	"cover": "https://preview.redd.it/art-gimai-seikatsu-volume-8-cover-release-date-2023-april-25-v0-nr9ocn9htopa1.jpg?auto=webp&s=a21ac93866328eddb80347d62a75cb40e258efad",
-    	"link": "gimai-seikatsu.json",
-   	 "new_post": "No",
-   	 "tl_type": "FanTL",
-   	 "source": "CClaw Translations|Fungus Fan Translations"
-     },
-	{
-    	"title": "Death's Daughter and the Ebony Blade",
-    	"cover": "https://1.bp.blogspot.com/-oF1kidekJ2I/X3iFgSCy6pI/AAAAAAAAPXM/dr3WZojxikQnLjWfrIr6c1KuZcgpdpFHQCNcBGAsYHQ/s1920/HDimage00030.jpeg",
-    	"link": "deaths-daughter-and-the-ebony-blade.json",
-   	 "new_post": "New",
-   	 "tl_type": "Official",
-   	 "source": "J-Novel Club"
-     },
-	{
-    	"title": "Ascendance of a Bookworm",
-    	"cover": "https://static.wikia.nocookie.net/ascendance-of-a-bookworm/images/0/0c/LN_P5V4-CoverEN.jpg/revision/latest?cb=20230313210513",
-    	"link": "ascendance-of-a-bookworm.json",
-   	 "new_post": "New",
-   	 "tl_type": "Official",
-   	 "source": "J-Novel Club"
-     },
-	{
-    	"title": "An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!",
-    	"cover": "https://i.ibb.co/cTFsFTY/cover.jpg",
-    	"link": "an-introverts-hookup.json",
-   	 "new_post": "New",
-   	 "tl_type": "Official",
-   	 "source": "J-Novel Club"
-     },
-	{
-    	"title": "A Late-Start Tamer's Laid-Back Life",
-    	"cover": "https://cdn.kobo.com/book-images/e5a4823f-0860-4162-b0c7-9348c7a8999e/1200/1200/False/a-late-start-tamer-s-laid-back-life-volume-6.jpg",
-    	"link": "a-late-start-tamer-s-laid-back-life.json",
-   	 "new_post": "New",
-   	 "tl_type": "Official",
-   	 "source": "J-Novel Club"
-     },
-	{
-    "title": "86 - EIGHTY SIX",
-    "cover": "https://static.wikia.nocookie.net/86-eighty-six/images/a/af/Light_Novel_Volume_11_Cover.jpg/revision/latest/scale-to-width/720?cb=20220209161407",
-    "link": "86-eighty-six.json",
-    "new_post": "New",
-    "tl_type": "Official",
-    "source": "Yen Press"
-  },
-	{
-    "title": "The Villainess Enjoys a Carefree Married Life in a Former Enemy Country in Her Seventh Loop",
-    "cover": "https://m.media-amazon.com/images/I/91fCiNmhxRL._AC_UF894,1000_QL80_.jpg",
-    "link": "the-villainess-enjoys-a-carefree-married-life-in-a-former-enemy-country-in-her-seventh-loop.json",
-    "new_post": "No",
-    "tl_type": "Official",
-    "source": "Seven Seas"
-  },
-	{
-    "title": "Classroom Of The Elite Year 2",
-    "cover": "https://royalmtls.com/wp-content/uploads/2023/06/Character_Gallery-1-768x1095.png",
-    "link": "classroom-of-the-elite-year-2.json",
-    "new_post": "New",
-    "tl_type": "Official",
-    "source": "Seven Seas"
-  },
-	{
-    "title": "Classroom Of The Elite",
-    "cover": "https://preview.redd.it/jgjn7gkh1pc41.jpg?auto=webp&s=11bc19e87d94fa6ff9ce79fbbd12915a3d9b858a",
-    "link": "classroom-of-the-elite.json",
-    "new_post": "No",
-    "tl_type": "Official",
-    "source": "Seven Seas"
+[
+  {
+    "id": "Wandering-Witch-The-Journey-of-Elaina",
+    "title": "Wandering Witch: The Journey of Elaina",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx98741-O0Xcc89Id03h.jpg",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "volumesTotal": "12",
+    "translation": "Yen Press",
+    "synopsis": "Once upon a time, there was a witch named Elaina, who set off on a journey across the world. Along the way, she would meet all kinds of people, from a country full of witches to a giant in love with his own muscles—but with each meeting, Elaina would become a small part of their story, and her own world would get a little bit bigger."
   },
   {
-    "title": "The Angel Next Door Spoils Me Rotten",
-    "cover": "https://images.yenpress.com/imgs/9781975348274.jpg?w=408&h=612&type=books&s=370339375199178abbdc04fcb98cb89b",
-    "link": "The-Angel-Next-Door-Spoils-Me-Rotten.json",
-    "new_post": "New",
-    "tl_type": "Official",
-    "source": "Yen Press"
+    "id": "Alya-Sometimes-Hides-Her-Feelings-in-Russian",
+    "title": "Alya Sometimes Hides Her Feelings in Russian",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130687-yny5jDh62wbA.jpg",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Yen Press",
+    "volumesTotal": "5",
+    "synopsis": "Alisa Mikhailovna Kujou is Seiren Private Academy’s “solitary princess.” She’s a half-Russian beauty with silver hair, at the top of her class, student council accountant, and…completely unapproachable. For some reason, she’s also taken on the responsibility of reprimanding the slacker who sits next to her in class. Masachika Kuze is constantly frustrating her by falling asleep, forgetting his textbooks, and just being an overall unexemplary student. Or at least, that’s how it looks from the outside. She may put on a tough act, but she doesn’t mind Masachika as much as others would think. She even lets him call her by her nickname, Alya. Anyone hearing the comments she mutters in Russian under her breath might know how she really feels, but since none of her classmates understand the language, she’s free to say whatever she likes! Except…there is one person who knows what she’s saying. Masachika eavesdrops on her embarrassing revelations, pretending to be clueless, all the while wondering what her flirtatious comments actually mean!"
   },
   {
-    "title": "Alya Sometimes Hide Her Feelings in Russian",
-    "cover": "https://images.yenpress.com/imgs/9781975367572.jpg?w=408&h=612&type=books&s=6abfb2c87c111c74ae58c184e1c3812a",
-    "link": "alya-sometimes-hide-her-feelings-in-russian.json",
-    "new_post": "New",
-    "tl_type": "Official",
-    "source": "Yen Press"
+    "id": "7th-Time-Loop-The-Villainess-Enjoys-a-Carefree-Life-Married-to-Her-Worst-Enemy",
+    "title": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx129152-YSmWEprDzkha.jpg",
+    "status": "Releasing",
+    "type": "Light Novel",
+    "translation": "Seven Seas Entertainment",
+    "volumesTotal": "5",
+    "synopsis": "If you think being reincarnated once is a big deal, try seven times. From lowly pharmacist to embattled knight, Rishe has lived many lives. This time around, she’s determined to live in the lap of luxury–but there’s just one catch. To make her extravagant dreams come true, she has to marry the prince who killed her in one of her previous lives! It’s going to take every one of the skills she’s honed over multiple lifetimes to accomplish this goal!"
   }
 ]
