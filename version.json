@@ -1,6 +1,6 @@
 {
-  "version_code": "1.6",
-  "message":"New Version Updates",
-  "filename":"FNovels_v1.0.3_snapShot1",
-  "link":"https://github.com/JelLee11/FNovels/releases/tag/v1.0.3_snapShot1"
+  "version_code": "1.7",
+  "message":"<h1>FNovels v.1.0.7</h1><h4>New update available.</h4><p>Other's experiencing bugs and errors, so we updated and fix does issues instantly. Please update your app for more compatibility.</p><h4>What's New?</h4><p>We transfer advertisement from Unity to Google AdMob</p><h4>What's Fixed?</h4><p>✓ Fixed bookmark not loading properly to it's supposed location.<br>✓ Fixed bookmark and other items disappear or become invisible after clicking<br>✓ Fixed add to shelf where the items got moved instead of adding to a shelf when the items already in another shelf<br>✓ Fixed where items in Finished Book shelf still visible from main list<br>✓ Fixed where user click Finished button on Book Information would not add the book to "Finished Book" shelf and mark as finished<br>✓ Fixed where user experience app crashed when opening items and failing to extract TOC Chapters<br>✓ Fixed where progressbar not visible<br>✓ Fixed drawer won't open<br>✓ Fixed ad still showing even after purchasing subscriptions<br>✓ Fixed issues where app crashed after opening<br>✓ Fixed more bugs</p><h4>Reminder:</h4><p>Please prevent closing app or opening another app while download still in progress specially for low-end devices that does not support multi-task. This might lead to unforeseen errors such us getting corrupted file which might lead to app crashing or won't display on main list.<br><br>For Pro version, we also planning to include PDF Reader soon, different UI for some areas, more reader theme to choose from and support Dark & Light mode. This features it still on the way. If you interested, we lowering the price to $10.67/₱600. If you are using GCash, please kindly PM me.<br><br>SociaBuzz subscription would be available soon for multiple paying platform.<br><br>As always, thank you very much</p>",
+  "filename":"FNovels_v1.0.7_beta",
+  "link":"https://github.com/JelLee11/FNovels-v2/releases/tag/v1.0.7_beta"
 }
